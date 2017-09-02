@@ -2,8 +2,6 @@
 // @name         degon
 // @namespace    http://degon.ittun.com
 // @version      0.1
-// @updateURL    http://degon.ittun.com/update.php
-// @downloadURL  http://degon.ittun.com/degon.js
 // @description  degon drug drug price maintain
 // @author       bcbon@wo.cn
 // @include	 *	
