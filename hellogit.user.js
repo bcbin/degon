@@ -16,6 +16,6 @@
 	console.log(name);	
 	//hello();
 	//unsafeWindow.hello();
-	console.log("hello, 123456");
+	console.log("hello, 123abc");
 }
 )();
