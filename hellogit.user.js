@@ -10,6 +10,7 @@
 // @grant	GM_deleteValue
 // @grant	GM_listValues
 // @grant	GM_setClipboard
+// @updateURL	https://raw.githubusercontent.com/bcbin/hellogit/master/hellogit.meta.js
 // ==/UserScript==
 
 (function() {
