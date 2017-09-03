@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hellogit
 // @namespace    http://degon.ittun.com
-// @version      0.11
+// @version      0.12
 // @description  hello golang
 // @author       bcbon@wo.cn
 // @include	 http://www.baidu.com/*	
@@ -16,6 +16,6 @@
 	console.log(name);	
 	//hello();
 	//unsafeWindow.hello();
-	console.log("abc");
+	console.log("123");
 }
 )();
