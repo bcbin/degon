@@ -16,6 +16,6 @@
 	console.log(name);	
 	//hello();
 	//unsafeWindow.hello();
-	console.log("abcdef");
+	console.log("abcdef123");
 }
 )();
