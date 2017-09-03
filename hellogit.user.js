@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hellogit
 // @namespace    http://degon.ittun.com
-// @version      0.4
+// @version      0.5
 // @description  hello golang
 // @author       bcbon@wo.cn
 // @include	 *	
@@ -10,7 +10,6 @@
 // @grant	GM_deleteValue
 // @grant	GM_listValues
 // @grant	GM_setClipboard
-// @updateURL https://raw.githubusercontent.com/bcbin/hellogit/master/hellogit.meta.js
 // ==/UserScript==
 
 (function() {
