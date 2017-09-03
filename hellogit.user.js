@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hellogit
 // @namespace    http://degon.ittun.com
-// @version      0.2
+// @version      0.3
 // @description  hello golang
 // @author       bcbon@wo.cn
 // @include	 *	
