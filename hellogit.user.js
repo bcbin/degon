@@ -4,7 +4,7 @@
 // @version      0.8
 // @description  hello golang
 // @author       bcbon@wo.cn
-// @include	 *	
+// @include	 http://www.baidu.com/*	
 // @grant	GM_getValue
 // @grant	GM_setValue
 // @grant	GM_deleteValue
