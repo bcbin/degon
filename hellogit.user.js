@@ -18,6 +18,6 @@
 	//console.log(name);	
 	//hello();
 	//unsafeWindow.hello();
-	console.log("abc");
+	console.log("abcdef");
 }
 )();
